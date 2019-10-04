@@ -1,1 +1,13 @@
+body{
+		background-image: url("header.jpg");
+	}
 
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 280px;
+	margin-bottom: 40px;
+
+}
